@@ -1,0 +1,11 @@
+D:\Nam 3\KTPM\11_Phuong_Polynomial\11_Phuong_Polynomial\bin\Debug\11_Phuong_Polynomial.exe.config
+D:\Nam 3\KTPM\11_Phuong_Polynomial\11_Phuong_Polynomial\bin\Debug\11_Phuong_Polynomial.exe
+D:\Nam 3\KTPM\11_Phuong_Polynomial\11_Phuong_Polynomial\bin\Debug\11_Phuong_Polynomial.pdb
+D:\Nam 3\KTPM\11_Phuong_Polynomial\11_Phuong_Polynomial\obj\Debug\11_Phuong_Polynomial.csproj.AssemblyReference.cache
+D:\Nam 3\KTPM\11_Phuong_Polynomial\11_Phuong_Polynomial\obj\Debug\11_Phuong_Polynomial.csproj.SuggestedBindingRedirects.cache
+D:\Nam 3\KTPM\11_Phuong_Polynomial\11_Phuong_Polynomial\obj\Debug\_11_Phuong_Polynomial.Phuong_11.resources
+D:\Nam 3\KTPM\11_Phuong_Polynomial\11_Phuong_Polynomial\obj\Debug\_11_Phuong_Polynomial.Properties.Resources.resources
+D:\Nam 3\KTPM\11_Phuong_Polynomial\11_Phuong_Polynomial\obj\Debug\11_Phuong_Polynomial.csproj.GenerateResource.cache
+D:\Nam 3\KTPM\11_Phuong_Polynomial\11_Phuong_Polynomial\obj\Debug\11_Phuong_Polynomial.csproj.CoreCompileInputs.cache
+D:\Nam 3\KTPM\11_Phuong_Polynomial\11_Phuong_Polynomial\obj\Debug\11_Phuong_Polynomial.exe
+D:\Nam 3\KTPM\11_Phuong_Polynomial\11_Phuong_Polynomial\obj\Debug\11_Phuong_Polynomial.pdb

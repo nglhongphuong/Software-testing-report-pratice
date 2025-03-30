@@ -1,0 +1,46 @@
+STT   n_11_phuong a_11_phuong x_11_phuong KQ_ThucTe_11_phuong                                                    KQ_Test
+------------------------------------------------------------------------------------------------------------------------------------------------------
+1                1,2,3                2 Không được để trống dữ liệu                                     pass
+2     2                               2 Không được để trống dữ liệu                                     pass
+3     2          1,2,3                  Không được để trống dữ liệu                                     pass
+4                                     2 Không được để trống dữ liệu                                     pass
+5                1,2,3                  Không được để trống dữ liệu                                     pass
+6     2                                 Không được để trống dữ liệu                                     pass
+7                                       Không được để trống dữ liệu                                     pass
+8     -4         1,2,3                2 Bậc đa thức phải là số nguyên dương                             pass
+9     0          1,2,3                2 Bậc đa thức phải là số nguyên dương                             pass
+10    a          1,2,3                2 Bậc đa thức phải là số nguyên dương                             pass
+11    1.5        1,2,3                2 Bậc đa thức phải là số nguyên dương                             pass
+12    @          1,2,3                2 Bậc đa thức phải là số nguyên dương                             pass
+13    4b         1,2,3                2 Bậc đa thức phải là số nguyên dương                             pass
+14    2          1 2,3                1 Hệ số phải được nhập cách nhau bằng dấu phẩy và là số nguyên    pass
+15    2          0                    1 Số lượng hệ số không hợp lệ                                     fail
+16    2          1,3,a                1 Hệ số phải được nhập cách nhau bằng dấu phẩy và là số nguyên    pass
+17    2          1,  ,3               1 Hệ số phải được nhập cách nhau bằng dấu phẩy và là số nguyên    pass
+18    2          ,1,3                 1 Số lượng hệ số không hợp lệ                                     fail
+19    2          1,3,                 1 Số lượng hệ số không hợp lệ                                     fail
+20    2          1.3,2                1 Hệ số phải được nhập cách nhau bằng dấu phẩy và là số nguyên    pass
+21    2          1,-,3                1 Danh sách có hệ số rỗng hoặc định dạng sai                      fail
+22    2          1,3-2                1 Số lượng hệ số không hợp lệ                                     fail
+23    2          1,3,4a               1 Hệ số phải được nhập cách nhau bằng dấu phẩy và là số nguyên    pass
+24    2          1,3,#4               1 Hệ số phải được nhập cách nhau bằng dấu phẩy và là số nguyên    pass
+25    2           1,3,                1 Số lượng hệ số không hợp lệ                                     fail
+26    2           , ,                 1 Hệ số phải được nhập cách nhau bằng dấu phẩy và là số nguyên    pass
+27    2          1,3,@                1 Hệ số phải được nhập cách nhau bằng dấu phẩy và là số nguyên    pass
+28    2          1,  , 3              1 Hệ số phải được nhập cách nhau bằng dấu phẩy và là số nguyên    fail
+29    3          1,2                  3 Số lượng hệ số không hợp lệ                                     pass
+30    3          1,2,3                2 Số lượng hệ số không hợp lệ                                     pass
+31    3          1,2,3,4,5            1 Số lượng hệ số không hợp lệ                                     pass
+32    4          2,3,4,5,6,7          3 Số lượng hệ số không hợp lệ                                     pass
+33    1          5,2                  1 7                                                               fail
+34    2          3,4,5,6              2 Số lượng hệ số không hợp lệ                                     pass
+35    3          1,,2                 1 Danh sách có hệ số rỗng hoặc định dạng sai                      pass
+36    1          ,1,2                 2 5                                                               fail
+37    1          1,2,                 3 7                                                               fail
+38    2          1,-,3                4 Danh sách có hệ số rỗng hoặc định dạng sai                      pass
+39    3          2,,3,4,5             5 Danh sách có hệ số rỗng hoặc định dạng sai                      pass
+40    2          ,2,3,4               6 164                                                             fail
+41    2          2,3,4,,              7 219                                                             fail
+42    2          -,2,3                8 Danh sách có hệ số rỗng hoặc định dạng sai                      pass
+43    1          3,- 1                9 Hệ số phải được nhập cách nhau bằng dấu phẩy và là số nguyên    fail
+44    1          2,  3                10 Hệ số phải được nhập cách nhau bằng dấu phẩy và là số nguyên    fail
